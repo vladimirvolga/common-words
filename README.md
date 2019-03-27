@@ -305,6 +305,7 @@
     </h3>
 
     <time class="entry__datetime">32 мая, 10:87</time>
+    
   </header>
 
   <div class="entry__author author-entry">
